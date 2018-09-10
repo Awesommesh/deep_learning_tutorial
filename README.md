@@ -1,6 +1,6 @@
 # Basic Deep Learning Tutorial (PyTorch)
 
-Please install `conda` first: https://conda.io/docs/user-guide/install/download.html
+Please install `conda` (for Python 3!) first: https://conda.io/docs/user-guide/install/download.html
 
 Alternatively, you can use `pip`: https://pip.pypa.io/en/stable/installing/
 

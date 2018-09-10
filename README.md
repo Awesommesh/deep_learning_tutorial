@@ -1,6 +1,7 @@
 # Basic Deep Learning Tutorial
 
 Please install `conda` first: https://conda.io/docs/user-guide/install/download.html
+
 Alternatively, you can use `pip`: https://pip.pypa.io/en/stable/installing/
 
 Then use the following commands to install necessary packages (if using pip, replace `conda` with `pip`):

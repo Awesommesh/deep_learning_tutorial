@@ -8,4 +8,4 @@ Then use the following commands to install necessary packages (if using pip, rep
 1. `conda install jupyter`
 2. `conda install numpy`
 3. `conda install matplotlib`
-4. `conda install pytorch torchvision -c pytorch`
+4. `conda install pytorch torchvision -c pytorch` (upon failure, go to pytorch.org)

@@ -14,4 +14,6 @@ Then use the following commands to install necessary packages (if using pip, rep
 
 Open Anaconda Navigator, click on Environments, click on "play" button for your environment, and choose "Open with Jupyter Notebook".
 
-Or go to your terminal, change directory to your cloned repository, and type in "jupyter notebook"
+Or go to your terminal, change directory to your cloned repository, and type in `jupyter notebook`.
+
+Open `deep_learning_tutorial_0.ipynb` in the pop-up browser.
